@@ -8,7 +8,9 @@ This is the static website I deployed for **DevOps Internship Task 6** using **G
 ---
 
 ## 🧰 Project Structure
-
+.
+├── index.html ← Main HTML page (includes embedded CSS)
+└── README.md ← This file
 
 ---
 
